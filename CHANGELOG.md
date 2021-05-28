@@ -17,3 +17,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - Set/Get node
 - Material list UI
+- Preview material clipping
+- Preview background config indicator
+- Preview background config color picker _(via react-color 2.17.3)_
+
+### Changed
+- Mapped panning to middle mouse button

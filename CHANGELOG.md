@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.0.2] - 2021-05-27
 ### Added
 - Compose node
+- Export
 
 ### Removed
 - Swizzle node
@@ -21,6 +22,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Preview background config indicator
 - Preview background config color picker _(via react-color 2.17.3)_
 - Copy style
+- List filter
+- Workspace and preview focus
+- Bool switching issue
 
 ### Changed
 - Mapped panning to middle mouse button
+- Cursor feedback when interacting with nodes
+

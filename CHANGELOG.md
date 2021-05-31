@@ -27,6 +27,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Bool switching issue
 - Color picker performance
 - Get node not connected to set wont break the shader
+- Set node without input connection wont break the shader
+
 
 ### Changed
 - Mapped panning to middle mouse button

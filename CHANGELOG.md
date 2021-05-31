@@ -25,6 +25,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - List filter
 - Workspace and preview focus
 - Bool switching issue
+- Color picker performance
 
 ### Changed
 - Mapped panning to middle mouse button

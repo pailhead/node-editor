@@ -4,6 +4,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## Unreleased
+
+### Added
+- All shader versions for basic, phong, lambert and standard from r76 to r129
+- Examples (dissolve, fresnel, texture sampling)
+
+### Fixed
+- Get node preview propagation
+- Boolean not being applied to shader
+- Boolean and Color types in .d.ts
+- const formatting when exporting
+- texture export
+- color export
+
+
 ## [0.0.3] - 2021-06-2
 ### Added
 - version option when exporting
